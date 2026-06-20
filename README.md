@@ -40,9 +40,11 @@ CSE @ IIT Patna ('27) · Quant Dev Intern @ 26Miles Capital
 ### Elsewhere
 
 2× ICPC Asia Regionalist (All India Rank 18) · Meta Hacker Cup 2025 · JPMC Code
-for Good 2025 Finalist · Codeforces Expert (max 1811) ·
-[codeforces](https://codeforces.com/profile/explorer_skp) ·
-[codechef](https://www.codechef.com/users/explorer_skp) ·
-[linkedin](https://www.linkedin.com/in/soumyakanta-panda-1823a3288/)
+for Good 2025 Finalist · Codeforces Expert (max 1811)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161a23?style=flat-square&logo=linkedin&logoColor=5ec8c2)](https://www.linkedin.com/in/soumyakanta-panda-1823a3288/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-161a23?style=flat-square&logo=codeforces&logoColor=5ec8c2)](https://codeforces.com/profile/explorer_skp)
+[![CodeChef](https://img.shields.io/badge/CodeChef-161a23?style=flat-square&logo=codechef&logoColor=5ec8c2)](https://www.codechef.com/users/explorer_skp)
+[![Email](https://img.shields.io/badge/Email-161a23?style=flat-square&logo=gmail&logoColor=5ec8c2)](mailto:pandasoumyakanta7@gmail.com)
 
 > *if not now, when*
