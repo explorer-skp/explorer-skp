@@ -5,7 +5,7 @@ them honestly.** The interesting part is never the demo; it's the tail latency
 and the test that can actually fail.
 
 What pulls me is the engineering backbone of finance: low-latency C++ trading
-infrastructure and quantitative systems — which is why these projects keep
+infrastructure and quantitative systems - which is why these projects keep
 landing on order books, tick data, and microsecond tails.
 
 CSE @ IIT Patna ('27) · Quant Dev Intern @ 26Miles Capital
